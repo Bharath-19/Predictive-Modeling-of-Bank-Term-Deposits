@@ -117,5 +117,5 @@ Walter Reade and Elizabeth Park.
 ---
 
 ## 📄 License  
-This project is licensed under the **MIT License** – see the details below:  
+This project is licensed under the **MIT License** - you are free to use, modify, and distribute this project with proper attribution. 
 
